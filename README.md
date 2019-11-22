@@ -11,3 +11,4 @@ Done in Javascript
 6. Draw stairs - 8kyu
 7. For UFC Fans (Total Beginners): Conor McGregor vs George Saint Pierre - 8kyu
 8. Reversed Strings - 8kyu
+9. I love you, a little , a lot, passionately ... not at all - 8kyu
