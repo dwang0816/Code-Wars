@@ -1,0 +1,35 @@
+Your task is to sum the differences between consecutive pairs in the array in descending order.
+
+For example: sumOfDifferences([2, 1, 10]) Returns 9
+
+Descending order: [10, 2, 1]
+
+Sum: (10 - 2) + (2 - 1) = 8 + 1 = 9
+
+If the array is empty or the array has only one element the result should be 0 (Nothing in Haskell).
+
+SOLUTION:
+
+function sumOfDifferences(arr) {
+  let count = 0
+  
+  arr.sort((a, b) => a-b)
+  if(arr.length === 0){
+  
+    return 0
+    
+  } else if (arr.length > 0){
+  
+    for(let i=arr.length-1;i>0;i--){
+      count += arr[i] - arr[i-1]
+    }
+  }
+  return count
+}
+
+
+******************PAY ATTENTION TO THE DETAIL OF .sort()**************************
+
+arr.sort((a, b) => a-b)
+
+is automatically sorting in ascending order because .sort() always assume you're sorting strings by default.
