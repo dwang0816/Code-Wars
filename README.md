@@ -9,3 +9,4 @@ Done in Javascript
 4. Sum of differences in array - 8kyu
 5. Do I get a bonus? - 8kyu
 6. Draw stairs - 8kyu
+7. For UFC Fans (Total Beginners): Conor McGregor vs George Saint Pierre - 8kyu
