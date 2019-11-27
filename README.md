@@ -12,3 +12,4 @@ Done in Javascript
 7. For UFC Fans (Total Beginners): Conor McGregor vs George Saint Pierre - 8kyu
 8. Reversed Strings - 8kyu
 9. I love you, a little , a lot, passionately ... not at all - 8kyu
+10. Generate range of integers - 8kyu
