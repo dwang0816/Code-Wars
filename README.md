@@ -17,3 +17,4 @@ Done in Javascript
 12. Thinking & Testing: A and B? - 7kyu
 13. The 'if' function - 8kyu
 14. Sum Mixed Array - 8kyu
+15. Ironman Triathlon - 7kyu
