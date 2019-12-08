@@ -16,3 +16,4 @@ Done in Javascript
 11. Alan Partridge II - Apple Turnover - 8kyu
 12. Thinking & Testing: A and B? - 7kyu
 13. The 'if' function - 8kyu
+14. Sum Mixed Array - 8kyu
