@@ -18,4 +18,5 @@ Done in Javascript
 13. The 'if' function - 8kyu
 14. Sum Mixed Array - 8kyu
 15. Ironman Triathlon - 7kyu
-16. Basic Math (Add or Subtract) - 7 kyu
+16. Basic Math (Add or Subtract) - 7kyu
+17. Squash the bugs - 8kyu
