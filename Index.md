@@ -20,3 +20,4 @@ Done in Javascript
 15. Ironman Triathlon - 7kyu
 16. Basic Math (Add or Subtract) - 7kyu
 17. Squash the bugs - 8kyu
+18. Ticker - 6kyu
