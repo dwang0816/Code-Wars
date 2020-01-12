@@ -21,3 +21,4 @@ Done in Javascript
 16. Basic Math (Add or Subtract) - 7kyu
 17. Squash the bugs - 8kyu
 18. Ticker - 6kyu
+19. You Can't Code Under Pressure #1 - 8kyu
