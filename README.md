@@ -22,3 +22,4 @@ Done in Javascript
 17. Squash the bugs - 8kyu
 18. Ticker - 6kyu
 19. You Can't Code Under Pressure #1 - 8kyu
+20. Square Every Digit - 7kyu
