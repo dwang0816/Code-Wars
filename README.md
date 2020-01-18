@@ -23,3 +23,4 @@ Done in Javascript
 18. Ticker - 6kyu
 19. You Can't Code Under Pressure #1 - 8kyu
 20. Square Every Digit - 7kyu
+21. Where my anagrams at? - 5kyu
