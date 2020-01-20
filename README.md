@@ -24,3 +24,4 @@ Done in Javascript
 19. You Can't Code Under Pressure #1 - 8kyu
 20. Square Every Digit - 7kyu
 21. Where my anagrams at? - 5kyu
+22. Odd or Even? - 7kyu
