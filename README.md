@@ -26,3 +26,4 @@ Done in Javascript
 21. Where my anagrams at? - 5kyu
 22. Odd or Even? - 7kyu
 23. Square(n) Sum - 8kyu
+24. What's the real floor? - 8kyu
