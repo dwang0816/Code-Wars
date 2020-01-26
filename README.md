@@ -27,3 +27,4 @@ Done in Javascript
 22. Odd or Even? - 7kyu
 23. Square(n) Sum - 8kyu
 24. What's the real floor? - 8kyu
+25. Century From Year - 8kyu
