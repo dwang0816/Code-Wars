@@ -23,3 +23,10 @@ function countLettersAndDigits(input) {
   }
   return counter
 }
+
+
+Better Solution:
+
+function countLettersAndDigits(s) {
+  return s.replace(/[^a-z\d]/gi,"").length;
+}
