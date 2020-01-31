@@ -30,3 +30,4 @@ Done in Javascript
 25. Century From Year - 8kyu
 26. Convert number to reversed array of digits - 8kyu
 27. Help Bob count letters and digits. - 7kyu
+28. Coding 3min : Jumping Dutch act - 8kyu
