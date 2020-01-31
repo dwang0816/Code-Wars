@@ -32,3 +32,4 @@ Done in Javascript
 27. Help Bob count letters and digits. - 7kyu
 28. Coding 3min : Jumping Dutch act - 8kyu
 29. Grasshopper - Messi goals function - 8kyu
+30. Training JS #14: Methods of Number object--toString() and toLocaleString() - 8kyu
