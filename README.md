@@ -28,4 +28,5 @@ Done in Javascript
 23. Square(n) Sum - 8kyu
 24. What's the real floor? - 8kyu
 25. Century From Year - 8kyu
-26. Convert number to reversed array of digits 8kyu
+26. Convert number to reversed array of digits - 8kyu
+27. Help Bob count letters and digits. - 7kyu
