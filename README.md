@@ -33,3 +33,4 @@ Done in Javascript
 28. Coding 3min : Jumping Dutch act - 8kyu
 29. Grasshopper - Messi goals function - 8kyu
 30. Training JS #14: Methods of Number object--toString() and toLocaleString() - 8kyu
+31. Row of the odd triangle - 6kyu
