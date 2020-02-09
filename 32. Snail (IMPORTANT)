@@ -16,3 +16,23 @@ NOTE: The idea is not sort the elements from the lowest value to the highest; th
 
 NOTE 2: The 0x0 (empty matrix) is represented as en empty array inside an array [[]].
 
+Solution:
+function snail(array){
+  if(array.length===1){
+    return array[0]
+  }else if(array.length===0){
+    return []
+  }else{
+    const sorted = []
+    sorted.push(...array.shift())
+    for(let i=0; i<array.length-1; i++){
+      sorted.push(array[i].pop())
+    }
+    sorted.push(...array.pop().reverse())
+    for(let i=array.length-1; i>=0; i--){
+      sorted.push(array[i].shift())
+    }
+    sorted.push(...snail(array))
+    return sorted
+  }
+}
