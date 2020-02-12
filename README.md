@@ -35,3 +35,4 @@ Done in Javascript
 30. Training JS #14: Methods of Number object--toString() and toLocaleString() - 8kyu
 31. Row of the odd triangle - 6kyu
 32. Snail - 4kyu
+33. Break camelCase - 6kyu
