@@ -1,0 +1,19 @@
+Complete the solution so that the function will break up camel casing, using a space between words.
+
+Example
+solution("camelCasing")  ==  "camel Casing"
+
+Solution:
+
+function solution(string) {
+    const stringArr = string.split("")
+    let newString = ''
+    for(let i=0;i<stringArr.length;i++){
+      if(/[A-Z]/.test(stringArr[i]) === true){
+        newString += " " + stringArr[i]
+      } else {
+      newString += stringArr[i]
+      }
+    }
+    return newString  
+}
