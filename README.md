@@ -38,3 +38,4 @@ Done in Javascript
 33. Break camelCase - 6kyu
 34. Pokemon Damage Calculator - 6kyu
 35. Twice linear - 4kyu
+36. Beginner Series #2 Clock - 8kyu
