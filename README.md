@@ -36,3 +36,4 @@ Done in Javascript
 31. Row of the odd triangle - 6kyu
 32. Snail - 4kyu
 33. Break camelCase - 6kyu
+34. Pokemon Damage Calculator - 6kyu
