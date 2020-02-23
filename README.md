@@ -37,3 +37,4 @@ Done in Javascript
 32. Snail - 4kyu
 33. Break camelCase - 6kyu
 34. Pokemon Damage Calculator - 6kyu
+35. Twice linear - 4kyu
