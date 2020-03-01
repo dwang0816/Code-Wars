@@ -39,3 +39,4 @@ Done in Javascript
 34. Pokemon Damage Calculator - 6kyu
 35. Twice linear - 4kyu
 36. Beginner Series #2 Clock - 8kyu
+37. Watermelon - 8kyu
