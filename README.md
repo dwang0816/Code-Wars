@@ -40,3 +40,4 @@ Done in Javascript
 35. Twice linear - 4kyu
 36. Beginner Series #2 Clock - 8kyu
 37. Watermelon - 8kyu
+38. Find the first non-consecutive number - 8kyu
