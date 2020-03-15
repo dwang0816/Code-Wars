@@ -44,3 +44,4 @@ Done in Javascript
 39. List of All Rationals - 7kyu
 40. Triple Trouble - 8kyu
 41. Is he gonna survive? - 8kyu
+42. Grasshopper - Messi Goals - 8kyu
