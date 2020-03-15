@@ -1,6 +1,6 @@
 # Code Wars Solution
 
-Done in Javascript
+Done in JavaScript
 
 -Index-
 1. unusualFive - 8kyu
