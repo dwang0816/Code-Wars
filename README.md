@@ -43,3 +43,4 @@ Done in Javascript
 38. Find the first non-consecutive number - 8kyu
 39. List of All Rationals - 7kyu
 40. Triple Trouble - 8kyu
+41. Is he gonna survive? - 8kyu
