@@ -45,3 +45,4 @@ Done in JavaScript
 40. Triple Trouble - 8kyu
 41. Is he gonna survive? - 8kyu
 42. Grasshopper - Messi Goals - 8kyu
+43. Thinking & Testing : True or False - 7kyu
