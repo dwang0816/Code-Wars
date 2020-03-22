@@ -46,3 +46,4 @@ Done in JavaScript
 41. Is he gonna survive? - 8kyu
 42. Grasshopper - Messi Goals - 8kyu
 43. Thinking & Testing : True or False - 7kyu
+44. PI approximation - 6kyu
