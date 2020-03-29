@@ -50,3 +50,4 @@ Done in JavaScript
 45. Will you make it? - 8kyu
 46. All Star Code Challenge #18 - 8kyu
 47. Is it even? - 8kyu
+48. Array.diff - 6kyu
