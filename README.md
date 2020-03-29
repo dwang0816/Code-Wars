@@ -48,4 +48,4 @@ Done in JavaScript
 43. Thinking & Testing : True or False - 7kyu
 44. PI approximation - 6kyu
 45. Will you make it? - 8kyu
-46. 47. All Star Code Challenge #18 - 8kyu
+46. All Star Code Challenge #18 - 8kyu
