@@ -52,3 +52,4 @@ Done in JavaScript
 47. Is it even? - 8kyu
 48. Array.diff - 6kyu
 49. Is the string uppercase - 8kyu
+50. Computer problem series #1: Fill the Hard Disk Drive - 7kyu
