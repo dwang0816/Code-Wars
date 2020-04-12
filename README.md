@@ -54,3 +54,4 @@ Done in JavaScript
 49. Is the string uppercase - 8kyu
 50. Computer problem series #1: Fill the Hard Disk Drive - 7kyu
 51. altERnaTIng cAsE <=> ALTerNAtiNG CaSe - 8kyu
+52. esreveR - 7kyu
