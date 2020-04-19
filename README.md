@@ -56,4 +56,5 @@ Done in JavaScript
 51. altERnaTIng cAsE <=> ALTerNAtiNG CaSe - 8kyu
 52. esreveR - 7kyu
 53. Beginner Series #1 School Paperwork - 8kyu
-54. 54. Sum of positive - 8kyu
+54. Sum of positive - 8kyu
+55. Abbreviate a Two Word Name - 8kyu
