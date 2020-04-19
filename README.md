@@ -58,3 +58,4 @@ Done in JavaScript
 53. Beginner Series #1 School Paperwork - 8kyu
 54. Sum of positive - 8kyu
 55. Abbreviate a Two Word Name - 8kyu
+56. Total amount of points - 8kyu
