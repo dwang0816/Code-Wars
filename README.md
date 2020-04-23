@@ -60,3 +60,4 @@ Done in JavaScript
 55. Abbreviate a Two Word Name - 8kyu
 56. Total amount of points - 8kyu
 57. Find the divisors! - 7kyu
+58. 58. Get Planet Name By ID - 8kyu
