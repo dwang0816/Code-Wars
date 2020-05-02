@@ -62,3 +62,4 @@ Done in JavaScript
 57. Find the divisors! - 7kyu
 58. Get Planet Name By ID - 8kyu
 59. kyu Array plus array - 8kyu
+60. altERnaTIng cAsE <=> ALTerNAtiNG CaSe - 8kyu
