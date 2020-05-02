@@ -64,3 +64,4 @@ Done in JavaScript
 59. kyu Array plus array - 8kyu
 60. altERnaTIng cAsE <=> ALTerNAtiNG CaSe - 8kyu
 61. You only need one - Beginner - 8kyu
+62. Is There an Odd Bit? - 7kyu
