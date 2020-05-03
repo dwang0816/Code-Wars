@@ -65,3 +65,4 @@ Done in JavaScript
 60. altERnaTIng cAsE <=> ALTerNAtiNG CaSe - 8kyu
 61. You only need one - Beginner - 8kyu
 62. Is There an Odd Bit? - 7kyu
+63. Largest 5 digit number in a series - 7kyu
