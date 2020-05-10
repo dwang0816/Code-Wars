@@ -66,3 +66,4 @@ Done in JavaScript
 61. You only need one - Beginner - 8kyu
 62. Is There an Odd Bit? - 7kyu
 63. Largest 5 digit number in a series - 7kyu
+64. Take the Derivative - 8kyu
