@@ -67,3 +67,5 @@ Done in JavaScript
 62. Is There an Odd Bit? - 7kyu
 63. Largest 5 digit number in a series - 7kyu
 64. Take the Derivative - 8kyu
+65. Expression matters - 8kyu
+66. Search for letters - 7kyu
