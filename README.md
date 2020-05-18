@@ -69,3 +69,4 @@ Done in JavaScript
 64. Take the Derivative - 8kyu
 65. Expression matters - 8kyu
 66. Search for letters - 7kyu
+67. Subtract the Sum - 8kyu
