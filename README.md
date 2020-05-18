@@ -70,3 +70,4 @@ Done in JavaScript
 65. Expression matters - 8kyu
 66. Search for letters - 7kyu
 67. Subtract the Sum - 8kyu
+68. Ordered Count of Characters - 8kyu
